@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ashley Garcia
+- 📗I am currently a computer science major at Columbia University
