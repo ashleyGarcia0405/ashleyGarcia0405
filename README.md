@@ -9,5 +9,3 @@ Some stuff I'm a part of: Columbia Sailing RaceTeam, Womenx Innovators, CORE OCL
 Outside of work and school, I'm interested in following developments in art and tech. I also love sailing with Columbia Sailing, playing puzzle games, participating in hackathons, and making niche playlists on Spotify for my friends.
 
 Let's connect!
-
-![Visitor Count](https:​//profile-counter.glitch.me/ashleyGarcia0405/count.svg)
