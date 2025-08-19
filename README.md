@@ -10,4 +10,4 @@ Outside of work and school, I'm interested in following developments in art and 
 
 Let's connect!
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ashleyGarcia0405/count.svg)
