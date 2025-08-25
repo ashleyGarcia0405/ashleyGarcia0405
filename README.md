@@ -10,4 +10,6 @@ Outside of work and school, I'm interested in following developments in art and 
 
 Let's connect!
 
+![Lines of code](https://img.shields.io/tokei/lines/github/<username>/<repo>)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i43np7vsuh0i2b9te3pcue21d&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=i43np7vsuh0i2b9te3pcue21d&redirect=true)
