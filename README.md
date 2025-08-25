@@ -1,6 +1,3 @@
-
-![Lines of code](https://img.shields.io/tokei/lines/github/ashleyGarcia0405/)
-
 Hi there! 
 
 I'm Ashley, a 3rd year undergraduate student at Columbia University. I am pursuing a BS in Computer Science and a minor in Applied Mathematics.
