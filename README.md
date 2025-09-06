@@ -1,4 +1,4 @@
-I'm Ashley, a senior at Columbia University. I am pursuing a BS in Computer Science and a minor in Applied Mathematics.
+I'm Ashley, a senior at Columbia University (Engineering). I am studying CS and Applied Mathematics.
 
 I'm primarily interested in backend development and making cool/interactive digital experiences. I currently work as a software engineer intern at Spotify and a research assistant at the Lamont-Doherty Earth Observatory under the supervision of Felix Waldhauser. I am also the lead mentor for Hydra Robotics (2425 FRC + FTC).
 
