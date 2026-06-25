@@ -4,7 +4,7 @@ I specialized in systems, then in my final semester I took Honors Statistical Ma
 
 In the past I've focused on backend development, often spinning out backend services and APIs for startups student organizations I was a part of. During my undergrad I had internships at Spotify, Asakana, and the Lamont-Doherty Earth Observatory. There was a period in late 2024 through to early 2025 where I attempted to build my own startup in the technical recruitment space around AI skill assessment (I'm still super passionate about this!!!)
 
-Some other stuff I loved being a part of: Columbia Sailing raceteam, Womenx Innovators, CORE (Columbia Organization of Rising Entrepreneurs), Columbia Science Review.
+Some other stuff I loved being a part of: [Columbia Sailing](https://www.instagram.com/columbiasailing/) raceteam, Womenx Innovators, [CORE](https://www.instagram.com/coreatcu/?hl=en) (Columbia Organization of Rising Entrepreneurs), Columbia Science Review.
 
 Outside of work and school, I'm interested in following developments in art and tech. I also love sailing, playing puzzle games, going to hackathons, and making niche playlists on Spotify for my friends.
 
