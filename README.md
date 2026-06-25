@@ -2,7 +2,7 @@ I'm Ashley. I recently graduated from Columbia (Engineering) with a BS in Comput
 
 I specialized in systems, then in my final semester I took Honors Statistical Machine Learning and fell in love with the subject so now I'm aggresively pursuing a career in it. Follow my journey and notes [here](https://ashley-eta.vercel.app/research)!
 
-In the past I've focused on backend development, often spinning out backend services and APIs for startups student organizations I was a part of. During my undergrad I had internships at Spotify, Asakana, and the Lamont-Doherty Earth Observatory. There was a period in late 2024 through to early 2025 where I attempted to build my own startup in the technical recruitment space around AI skill assessment (I'm still super passionate about this!!!)
+In the past I've focused on backend development, often spinning out backend services and APIs for startups and student organizations I was a part of. During my undergrad I had internships at Spotify, Asakana, and the Lamont-Doherty Earth Observatory. There was a period in late 2024 through to early 2025 where I attempted to build my own startup in the technical recruitment space around AI skill assessment (I'm still super passionate about this!!!)
 
 Some other stuff I loved being a part of: [Columbia Sailing](https://www.instagram.com/columbiasailing/) raceteam, Womenx Innovators, [CORE](https://www.instagram.com/coreatcu/?hl=en) (Columbia Organization of Rising Entrepreneurs), Columbia Science Review.
 
