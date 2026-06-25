@@ -1,8 +1,10 @@
-I'm Ashley, a senior at Columbia University (Engineering). I am studying CS and Applied Mathematics.
+I'm Ashley. I recently graduated from Columbia (Engineering) with a BS in Computer Science.
 
-I'm primarily interested in backend development and making cool/interactive digital experiences. I currently work as a software engineer intern at Spotify and a research assistant at the Lamont-Doherty Earth Observatory under the supervision of Felix Waldhauser. I am also the lead mentor for Hydra Robotics (2425 FRC + FTC).
+I specialized in systems and then in my final semester class I took honors statistical machine learning and actually fell in love with the subject so now I'm aggresively pursuing a career in it. Follow my journey and notes [here](https://ashley-eta.vercel.app/research)!
 
-Some stuff I'm a part of: Columbia Sailing raceteam, Womenx Innovators, CORE (Columbia Organization of Rising Entrepreneurs), Columbia Science Review.
+In the past I've focused on backend development, often spinning out backend services and APIs for student organizations I was a part of and startups. During my undergrad I had internships at Spotify, Asakana, and the Lamont-Doherty Earth Observatory. There was a period in late 2024 through to early 2025 where I attempted to build my own startup in the technical recruitment space around ai assessment (I'm still super passionate about this!!!)
+
+Some other stuff I loved being a part of: Columbia Sailing raceteam, Womenx Innovators, CORE (Columbia Organization of Rising Entrepreneurs), Columbia Science Review.
 
 Outside of work and school, I'm interested in following developments in art and tech. I also love sailing, playing puzzle games, going to hackathons, and making niche playlists on Spotify for my friends.
 
