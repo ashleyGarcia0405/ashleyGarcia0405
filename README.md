@@ -6,7 +6,7 @@ In the past I've focused on backend development, often spinning out backend serv
 
 Some other stuff I loved being a part of: [Columbia Sailing](https://www.instagram.com/columbiasailing/) raceteam, Womenx Innovators, [CORE](https://www.instagram.com/coreatcu/?hl=en) (Columbia Organization of Rising Entrepreneurs), Columbia Science Review.
 
-Outside of work, I also love sailing, playing card games, going to hackathons, and making niche playlists on Spotify for my friends.
+Outside of work, I love sailing (recreationally but always down to race!!!), playing card games, going to hackathons, and making niche playlists on Spotify for my friends.
 
 Let's connect!
 
